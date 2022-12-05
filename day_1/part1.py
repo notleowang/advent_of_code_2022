@@ -1,4 +1,4 @@
-inputFile = open('input.txt', 'r')
+inputFile = open('input', 'r')
 lines = inputFile.readlines()
 
 calories = 0
